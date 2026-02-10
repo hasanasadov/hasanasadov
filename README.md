@@ -5,6 +5,8 @@
 I'm a **Software Developer** with a passion for learning and building cutting-edge web applications. My journey is focused on mastering full-stack web development technologies, with a keen interest in React, GraphQL, and modern JavaScript frameworks.
 
 ![Profile views](https://komarev.com/ghpvc/?username=hasanasadov1406&label=Profile%20Views&color=0e75b6&style=flat-square)
+![Profile views](https://komarev.com/ghpvc/?username=hasanasadov&label=Profile%20Views&color=0e75b6&style=flat-square)
+
 
 ---
 
